@@ -15,7 +15,13 @@ apt install cloc
 ## Usage
 
 ```
-python3 recursive-cloc.py ./folder Java,TypeScript,Dockerfile,YAML 3
+python3 recursive-cloc.py <directory> <lang1,lang2,...> <max_depth>
+```
+
+Example:
+
+```
+python3 recursive-cloc.py ./code_folder Java,TypeScript,Dockerfile,YAML 3
 
 code_folder
     Java: files - 7004, lines - 274016
@@ -27,6 +33,8 @@ code_folder/ci
     Dockerfile: files - 1, lines - 57
 code_folder/ci/builder-image
     Dockerfile: files - 1, lines - 57
+    
+```
     YAML: files - 1, lines - 20
 
 ```
