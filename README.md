@@ -5,7 +5,7 @@ You can set depth and set of languages that you want see in results.
 
 ## Install
 
-You need cloc and python3
+You need cloc, python3 and this script
 
 ```
 apt install cloc
