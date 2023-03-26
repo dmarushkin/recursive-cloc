@@ -1,7 +1,7 @@
 # recursive-cloc
 
-Wrapper on cloc to run recursevly on supfolders and get birds eye view on big projects.
-You can set depth and set of languages
+Wrapper on cloc to run recursevly on supfolders and get birds eye view for big projects.
+You can set depth and set of languages that you want see in results.
 
 ## Install
 
