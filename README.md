@@ -33,8 +33,6 @@ code_folder/ci
     Dockerfile: files - 1, lines - 57
 code_folder/ci/builder-image
     Dockerfile: files - 1, lines - 57
-    
-```
     YAML: files - 1, lines - 20
 
 ```
